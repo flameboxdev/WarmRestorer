@@ -1,7 +1,7 @@
 # WarmRestorer
 High-voltage welding machine
 
-![](https://github.com/flameboxdev/WarmRestorer/blob/main/IMG_20220305_183639.jpg)
+![](https://github.com/flameboxdev/WarmRestorer/blob/main/weld.png)
 
 Development of an apparatus for welding damaged heating elements of underfloor heating under ceramic tiles.
 
